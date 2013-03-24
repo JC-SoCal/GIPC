@@ -8,7 +8,7 @@ GIPC (pronounced Gypsy) is short for Geographical IP Correlation. A Windows 32 b
 ## Requirements
 The exe requires 2 inputs:
 * The IP file (one IP per line)
-* MaxMind GeoCity database – This can be downloaded [**HERE**](http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz)
+* MaxMind GeoCity database – This can be downloaded [**HERE**](http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz)
 
 ## Outputs
 GIPC can produce 3 types of output:
